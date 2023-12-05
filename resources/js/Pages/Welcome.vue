@@ -52,7 +52,7 @@
               </ul>
             </div>
 
-            <div class="border-l border-solid border-gray-300 h-6 mx-2"></div>
+            <div class="border-l border-solid border-gray-300 h-6 mx-4"></div>
 
             <!-- Niños  -->
             <div class="relative inline-block group">
