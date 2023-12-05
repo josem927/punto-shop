@@ -200,7 +200,7 @@
   }
   
   .social-bar {
-    right: 0;
+    right: 1;
     left: auto;
   }
   
